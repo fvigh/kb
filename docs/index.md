@@ -6,9 +6,9 @@ quick demo lorem ipsum
 
 <div class="grid cards" markdown>
 
-- [:fontawesome-brands-html5: Canvas apps](Intro.md)
+- [:fontawesome-brands-microsoft: Canvas apps](Intro.md)
+- [:fontawesome-brands-html5: Model driven apps]
 - :fontawesome-brands-js: __JavaScript__
 - :fontawesome-brands-css3: __CSS__
-- :fontawesome-brands-internet-explorer: __Internet Explorer__
 
 </div>
