@@ -17,7 +17,7 @@ Power Apps Canvas Apps is a low-code platform that allows you to build custom bu
 
 === "C"
 
-    ``` c
+    ``` c { .yaml .copy }
     #include <stdio.h>
 
     int main(void) {
@@ -36,11 +36,6 @@ Power Apps Canvas Apps is a low-code platform that allows you to build custom bu
       return 0;
     }
     ```
-
-
-``` { .yaml .copy }
-# Code block content
-```
 
 ## Getting Started
 
