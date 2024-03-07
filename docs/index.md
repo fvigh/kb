@@ -1,7 +1,7 @@
-# QPC znalostná databáza
+# Domovská stránka
 
 quick demo
 
 ## Obsah
-- [[Powerapps]]
+- [Powerapps](Intro.md)
 - [[Powerautomate]]
