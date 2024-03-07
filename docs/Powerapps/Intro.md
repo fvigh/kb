@@ -2,9 +2,9 @@
 tags:
   - Powerapps
   - Canvas
-  - Vlastnik: FV
-  - Vytvorene: 13_3_2023
-  - Posledná revízia: 7_03_2024
+  - Vlastnik - FV
+  - Vytvorene - 13_3_2023
+  - Posledná revízia - 7_03_2024
 ---
 
 # Intro - Power Apps Canvas Apps
