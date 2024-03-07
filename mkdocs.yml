@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Knowledge base - DEMO
 
 theme:
     name: 'material'
@@ -7,7 +7,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
+      primary: orange
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
