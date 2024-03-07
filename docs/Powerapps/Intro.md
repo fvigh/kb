@@ -2,6 +2,29 @@
 
 Power Apps Canvas Apps is a low-code platform that allows you to build custom business applications without the need for extensive coding knowledge. Canvas Apps are designed to run on various devices, including mobile phones, tablets, and web browsers.
 
+=== "C"
+
+    ``` c
+    #include <stdio.h>
+
+    int main(void) {
+      printf("Hello world!\n");
+      return 0;
+    }
+    ```
+
+=== "C++"
+
+    ``` c++
+    #include <iostream>
+
+    int main(void) {
+      std::cout << "Hello world!" << std::endl;
+      return 0;
+    }
+    ```
+
+
 ``` { .yaml .copy }
 # Code block content
 ```
