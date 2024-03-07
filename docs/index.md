@@ -3,5 +3,6 @@
 quick demo
 
 ## Obsah
-- [Powerapps](Intro.md)
+- Powerapps
+  - [Canvas apps](Intro.md)
 - [[Powerautomate]]
