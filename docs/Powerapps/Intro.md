@@ -17,7 +17,7 @@ Power Apps Canvas Apps is a low-code platform that allows you to build custom bu
 
 === "C"
 
-    ``` c { .yaml .copy }
+    ``` c
     #include <stdio.h>
 
     int main(void) {
