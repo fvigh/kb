@@ -1,19 +1,14 @@
 # Domovská stránka
 
-quick demo
+quick demo lorem ipsum
 
-## Obsah
+## Powerapps
 
 <div class="grid cards" markdown>
 
-- :fontawesome-brands-html5: __[Canvas apps](Intro.md)__ for content and structure
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+- :fontawesome-brands-html5: __[Canvas apps](Intro.md)__
+- :fontawesome-brands-js: __JavaScript__
+- :fontawesome-brands-css3: __CSS__
+- :fontawesome-brands-internet-explorer: __Internet Explorer__
 
 </div>
-
-
-- Powerapps
-  - [Canvas apps](Intro.md)
-- [[Powerautomate]]
