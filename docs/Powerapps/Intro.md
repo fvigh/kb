@@ -1,3 +1,10 @@
+---
+tags:
+  - Powerapps
+  - Canvas
+  - Tutorial
+---
+
 # Intro - Power Apps Canvas Apps
 
 Power Apps Canvas Apps is a low-code platform that allows you to build custom business applications without the need for extensive coding knowledge. Canvas Apps are designed to run on various devices, including mobile phones, tablets, and web browsers.
