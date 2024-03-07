@@ -2,6 +2,10 @@
 
 Power Apps Canvas Apps is a low-code platform that allows you to build custom business applications without the need for extensive coding knowledge. Canvas Apps are designed to run on various devices, including mobile phones, tablets, and web browsers.
 
+``` { .yaml .copy }
+# Code block content
+```
+
 ## Getting Started
 
 1. **Sign in to Power Apps:** Visit [https://make.powerapps.com](https://make.powerapps.com) and sign in with your Microsoft account or organizational credentials.
