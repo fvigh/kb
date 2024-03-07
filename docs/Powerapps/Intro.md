@@ -6,10 +6,10 @@ tags:
   - Powerapps
   - Canvas
 ---
+| Vlastník    | Vytvorené                            | Posledná revízia                             |
+| ----------- | ------------------------------------ | -------------------------------------------- | 
+| `FV`        | :material-calendar-range:  7/3/2024  | :material-clock-time-eight-outline: 8/3/2024 |
 
-  - Vlastnik - FV
-  - Vytvorene - 13_3_2023
-  - Posledná revízia - 7_03_2024
 
 # Intro - Power Apps Canvas Apps
 
