@@ -3,8 +3,8 @@ author: FV
 description: Heeey
 date: '06/03/2024'
 tags:
-  - Powerapps
-  - Canvas
+  - Powerautomate
+  - Cloud flows
 ---
 | Vlastník    | Vytvorené                            | Posledná revízia                             |
 | ----------- | ------------------------------------ | -------------------------------------------- | 
