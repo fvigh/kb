@@ -17,10 +17,10 @@ quick demo lorem ipsum
 
 <div class="grid cards" markdown>
 
-- [:fontawesome-brands-microsoft: __Cloud flows__]()
-- [:fontawesome-brands-html5: __API__]()
-- [:fontawesome-brands-js: __Tlačové výstupy__]()
-- [:fontawesome-brands-css3: __Šablóny mailu__]()
+- [__Cloud flows__]()
+- [__API__]()
+- [__Tlačové výstupy__]()
+- [__Šablóny mailu__]()
 
 </div>
 
