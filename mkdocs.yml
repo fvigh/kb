@@ -24,13 +24,13 @@ theme:
 
 # Extensions
 markdown_extensions:
+  - tables
   - footnotes
   - attr_list
   - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  # - attr_list
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -42,9 +42,6 @@ markdown_extensions:
       generic: true
   - pymdownx.tabbed:
       alternate_style: true
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
