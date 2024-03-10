@@ -7,7 +7,7 @@ tags:
   - Cloud flows
 ---
 | Autor | Vlastník    | Vytvorené                            | Posledná revízia                             | Určené pre |
-| ------| ----------- | ------------------------------------ | -------------------------------------------- | ---------- |
+| ----- | ----------- | ------------------------------------ | -------------------------------------------- | ---------- |
 | `FV`  | `FV`        | :material-calendar-range:  4/3/2024  | :material-clock-time-eight-outline: 9/3/2024 | `developer`|
 
 # Power Automate Cloud Flows
