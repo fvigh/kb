@@ -7,12 +7,11 @@ tags:
 | ----- | ----------- | ------------------------------------ | -------------------------------------------- | ---------- | ------- |
 | `FV`  | `FV`        | :material-calendar-range:  7/3/2024  | :material-clock-time-eight-outline: 9/3/2024 | `developer`| [:fontawesome-solid-pencil:](https://github.com/fvigh/kb/blob/main/docs/Powerapps/CanvasApps.md) |
 
-[:fontawesome-solid-pencil:](https://github.com/fvigh/kb/blob/main/docs/Powerapps/CanvasApps.md)
-# Intro - Power Apps Canvas Apps
+# Canvas Apps
 
 Power Apps Canvas Apps is a low-code platform that allows you to build custom business applications without the need for extensive coding knowledge. Canvas Apps are designed to run on various devices, including mobile phones, tablets, and web browsers.
 
-=== "C"
+=== "case 1"
 
     ``` c
     #include <stdio.h>
@@ -23,7 +22,7 @@ Power Apps Canvas Apps is a low-code platform that allows you to build custom bu
     }
     ```
 
-=== "C++"
+=== "case 2"
 
     ``` c++
     #include <iostream>
