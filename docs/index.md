@@ -1,15 +1,14 @@
 # Domovská stránka
 
-quick demo lorem ipsum
 
 ### PowerApps
 
 <div class="grid cards" markdown>
 
 - [:fontawesome-brands-microsoft: __Canvas apps__](CanvasApps.md)
-- [:fontawesome-brands-html5: __Model driven apps__]()
-- [:fontawesome-brands-js: __Dataverse__]()
-- [:fontawesome-brands-css3: __Solutions__]()
+- [__Model driven apps__]()
+- [__Dataverse__]()
+- [__Solutions__]()
 
 </div>
 
@@ -17,7 +16,7 @@ quick demo lorem ipsum
 
 <div class="grid cards" markdown>
 
-- [__Cloud flows__](CloudFlows.md)
+- [:fontawesome-brands-css3: __Cloud flows__](CloudFlows.md)
 - [__API__]()
 - [__Tlačové výstupy__]()
 - [__Šablóny mailu__]()
