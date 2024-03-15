@@ -23,11 +23,11 @@
 
 </div>
 
-### Sharepoint
+### Vyhľadávanie
 
 <div class="grid cards" markdown>
 
-- [__lorem__]()
+- [:fontawesome-solid-tags:__Kľúčové slová__](https://fvigh.github.io/kb/Tags/)
 - [__ipsum__]()
 - __dolor__
 - __amet__
