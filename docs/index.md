@@ -27,9 +27,7 @@
 
 <div class="grid cards" markdown>
 
-- [:fontawesome-solid-tags:__Kľúčové slová__](https://fvigh.github.io/kb/Tags/)
+- [:fontawesome-solid-tags: __Kľúčové slová__](https://fvigh.github.io/kb/Tags/)
 - [__ipsum__]()
-- __dolor__
-- __amet__
 
 </div>
