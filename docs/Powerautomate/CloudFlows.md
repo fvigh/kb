@@ -6,9 +6,9 @@ tags:
   - Powerautomate
   - Cloud flows
 ---
-| Autor | Vlastník    | Vytvorené                            | Posledná revízia                             | Určené pre |
-| ----- | ----------- | ------------------------------------ | -------------------------------------------- | ---------- |
-| `FV`  | `FV`        | :material-calendar-range:  4/3/2024  | :material-clock-time-eight-outline: 9/3/2024 | `developer`|
+| Autor | Vlastník    | Vytvorené                            | Posledná revízia                             | Určené pre | Upraviť |
+| ----- | ----------- | ------------------------------------ | -------------------------------------------- | ---------- | ------- |
+| `FV`  | `FV`        | :material-calendar-range:  4/3/2024  | :material-clock-time-eight-outline: 9/3/2024 | `developer`| [:fontawesome-solid-pencil:](https://github.com/fvigh/kb/edit/main/docs/Powerautomate/CloudFlows.md) |
 
 # Power Automate Cloud Flows
 
