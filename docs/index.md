@@ -28,6 +28,5 @@
 <div class="grid cards" markdown>
 
 - [:fontawesome-solid-tags: __Kľúčové slová__](https://fvigh.github.io/kb/Tags/)
-- [__ipsum__]()
 
 </div>
